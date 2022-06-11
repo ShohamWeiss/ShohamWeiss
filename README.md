@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShohamWeiss
-- 👀 I’m interested in Deep Learning and Reinforcement Learning Projects. I'm also interested in physics and robotics.
-- 🌱 I’m currently getting my masters in Artificial Intelligence at the University of North Texas
+## 👋 Hi, I’m @ShohamWeiss
+- 👀 I’m interested in Deep Learning and Reinforcement Learning Projects. I'm also interested in Physics and Robotics.
+- 🌱 I’m currently getting my Masters in Artificial Intelligence at the University of North Texas
 - 💞️ I’m looking to collaborate on Deep Learning and Reinforcement Learning projects.
 - 📫 How to reach me: shohamweiss@gmail.com
 - ➡️ Check out my [personal website](https://shohamweiss.github.io/)
